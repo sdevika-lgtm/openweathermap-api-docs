@@ -15,9 +15,9 @@ This project documents selected endpoints from the OpenWeatherMap API. Each docu
 | Document | Description |
 |----------|-------------|
 | [Current Weather](docs/current-weather-endpoint.md) | Get real-time weather data for a city |
-| 5 Day Forecast | Get weather forecast every 3 hours for 5 days |
-| Air Pollution | Get air quality index for a location |
-| Geocoding | Convert city names to coordinates |
+| [5 Day Forecast](docs/five-day-forecast-endpoint.md) | Get weather forecast every 3 hours for 5 days |
+| [Air Pollution](docs/air-pollution-endpoint.md) | Get air quality index for a location |
+| [Geocoding](docs/geocoding-endpoint.md) | Convert city names to coordinates |
 
 ## Tools Used
 
